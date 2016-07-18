@@ -1,0 +1,9 @@
+C:\Users\nepa\Desktop\dojo\convert-euro-chf\winFormConvert\bin\Debug\winFormConvert.exe.config
+C:\Users\nepa\Desktop\dojo\convert-euro-chf\winFormConvert\bin\Debug\winFormConvert.exe
+C:\Users\nepa\Desktop\dojo\convert-euro-chf\winFormConvert\bin\Debug\winFormConvert.pdb
+C:\Users\nepa\Desktop\dojo\convert-euro-chf\winFormConvert\obj\Debug\winFormConvert.csprojResolveAssemblyReference.cache
+C:\Users\nepa\Desktop\dojo\convert-euro-chf\winFormConvert\obj\Debug\winFormConvert.Form1.resources
+C:\Users\nepa\Desktop\dojo\convert-euro-chf\winFormConvert\obj\Debug\winFormConvert.Properties.Resources.resources
+C:\Users\nepa\Desktop\dojo\convert-euro-chf\winFormConvert\obj\Debug\winFormConvert.csproj.GenerateResource.Cache
+C:\Users\nepa\Desktop\dojo\convert-euro-chf\winFormConvert\obj\Debug\winFormConvert.exe
+C:\Users\nepa\Desktop\dojo\convert-euro-chf\winFormConvert\obj\Debug\winFormConvert.pdb
